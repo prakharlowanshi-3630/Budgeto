@@ -1,0 +1,12 @@
+.light{
+    color: black;
+}
+/* .dark{
+    color: aqua;
+} */
+.btn{
+    color: black;
+}
+.btn:focus{
+    color:brown 
+}
